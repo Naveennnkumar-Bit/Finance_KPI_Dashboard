@@ -41,7 +41,7 @@ Below is a preview of the **Finance KPI Dashboard**:
 
 ## 🗂️ Files Included
 - **FinanceDashboard.pbix**: Power BI file with the completed dashboard.  
-- **SourceData.xlsx**: Raw data used for analysis.  
+- **SampleData.xlsx**: Raw data used for analysis.  
 - **README.md**: Documentation for the project.
 
 ---
