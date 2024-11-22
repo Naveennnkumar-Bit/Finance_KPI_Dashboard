@@ -8,6 +8,8 @@ This project is a **Power BI Dashboard** designed to visualize financial KPIs. I
 ## 🖼️ Dashboard Preview
 Below is a preview of the **Finance KPI Dashboard**:
 
+
+
 ![Finance KPI Dashboard Preview](PerformanceDash.png)
 
 
