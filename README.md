@@ -10,9 +10,7 @@ Below is a preview of the **Finance KPI Dashboard**:
 
 ![Finance KPI Dashboard Preview](PerformanceDash.png)
 
-*(Add the preview image to the `images` folder in your project directory.)*
 
----
 
 ## ✨ Features
 - **Sales Overview**: Analyze revenue, profits, and growth trends.  
