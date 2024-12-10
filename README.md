@@ -8,11 +8,9 @@ This project is a **Power BI Dashboard** designed to visualize financial KPIs. I
 ## 🖼️ Dashboard Preview
 Below is a preview of the **Finance KPI Dashboard**:
 
-
-
 ![Finance KPI Dashboard Preview](PerformanceDash.png)
 
-
+---
 
 ## ✨ Features
 - **Sales Overview**: Analyze revenue, profits, and growth trends.  
@@ -57,6 +55,23 @@ Below is a preview of the **Finance KPI Dashboard**:
 - Track financial KPIs like revenue, profit, and YTD growth.  
 - Identify trends and actionable insights using visuals and narratives.  
 - Analyze key drivers of business performance.  
+- **Detailed Insights**:
+  1. **Revenue Breakdown**: Segment-wise or region-wise revenue distribution and monthly/quarterly comparisons.  
+  2. **Profitability Analysis**: Trends in profit margins and contributions by products/services.  
+  3. **YTD Metrics**: Year-to-date performance metrics and comparisons with prior periods.  
+  4. **Growth Patterns**: Identification of trends and areas of opportunity or stagnation.  
+  5. **Driver Analysis**: Understanding key factors influencing financial performance.  
+  6. **Smart Narratives**: Auto-generated summaries for quick understanding of changes and anomalies.  
+
+- **Interactivity Features**:
+  - **Drill-Throughs**: Explore granular details behind high-level KPIs.  
+  - **Dynamic Slicers**: Segment data by time, geography, or product category.  
+  - **Real-Time Updates**: Integration with live data sources for up-to-date insights.  
+
+- **Strategic Applications**:
+  - Forecasting future trends using historical data.  
+  - Supporting executive decision-making with polished visuals.  
+  - Enhancing collaboration through intuitive dashboards.  
 
 ---
 
